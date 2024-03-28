@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\My Project C#\\ElibraryManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|c:\\my project c#\\elibrarymanagement\\elibrarymanagement\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|c:\\my project c#\\elibrarymanagement\\elibrarymanagement\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|c:\\my project c#\\elibrarymanagement\\elibrarymanagement\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|C:\\My Project C#\\ElibraryManagement\\elibrarymanagement\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "adminlogin.aspx",
+              "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\adminlogin.aspx",
+              "RelativeDocumentMoniker": "ElibraryManagement\\adminlogin.aspx",
+              "ToolTip": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\adminlogin.aspx",
+              "RelativeToolTip": "ElibraryManagement\\adminlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T02:15:18.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "userlogin.aspx",
               "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\userlogin.aspx",
               "RelativeDocumentMoniker": "ElibraryManagement\\userlogin.aspx",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "homepage.aspx",
               "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\homepage.aspx",
               "RelativeDocumentMoniker": "ElibraryManagement\\homepage.aspx",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "ElibraryManagement\\homepage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-28T01:25:10.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T01:25:10.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "customstylesheet.css",
               "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\css\\customstylesheet.css",
               "RelativeDocumentMoniker": "ElibraryManagement\\css\\customstylesheet.css",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\WebForm1.aspx",
               "RelativeDocumentMoniker": "ElibraryManagement\\WebForm1.aspx",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Site1.Master",
               "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\Site1.Master",
               "RelativeDocumentMoniker": "ElibraryManagement\\Site1.Master",
