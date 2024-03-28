@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\My Project C#\\ElibraryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|c:\\my project c#\\elibrarymanagement\\elibrarymanagement\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|c:\\my project c#\\elibrarymanagement\\elibrarymanagement\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|c:\\my project c#\\elibrarymanagement\\elibrarymanagement\\css\\customstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|C:\\My Project C#\\ElibraryManagement\\elibrarymanagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|C:\\My Project C#\\ElibraryManagement\\elibrarymanagement\\css\\customstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\css\\customstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|c:\\my project c#\\elibrarymanagement\\elibrarymanagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|c:\\my project c#\\elibrarymanagement\\elibrarymanagement\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94AE2660-ADAF-4F87-9A2D-6195EBD97071}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\homepage.aspx",
+              "RelativeDocumentMoniker": "ElibraryManagement\\homepage.aspx",
+              "ToolTip": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\homepage.aspx",
+              "RelativeToolTip": "ElibraryManagement\\homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T01:25:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "customstylesheet.css",
               "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\css\\customstylesheet.css",
               "RelativeDocumentMoniker": "ElibraryManagement\\css\\customstylesheet.css",
               "ToolTip": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\css\\customstylesheet.css",
               "RelativeToolTip": "ElibraryManagement\\css\\customstylesheet.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-27T08:54:58.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\WebForm1.aspx",
               "RelativeDocumentMoniker": "ElibraryManagement\\WebForm1.aspx",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Site1.Master",
               "DocumentMoniker": "C:\\My Project C#\\ElibraryManagement\\ElibraryManagement\\Site1.Master",
               "RelativeDocumentMoniker": "ElibraryManagement\\Site1.Master",
